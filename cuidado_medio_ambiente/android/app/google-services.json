@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "632413242973",
+    "project_id": "loginambiental-de367",
+    "storage_bucket": "loginambiental-de367.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:632413242973:android:2364c5238ab2f494296fb4",
+        "android_client_info": {
+          "package_name": "com.example.cuidado_medio_ambiente"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "632413242973-feh2ocfmhm415r6005880ninssu9tsga.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.cuidado_medio_ambiente",
+            "certificate_hash": "f27807ebc74f48452ad605261f814b6bb73d2967"
+          }
+        },
+        {
+          "client_id": "632413242973-l12iknqvjmdmisftrfc4p61a63fq60g0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnzs5tXmHY_bmrTShOcBi04uYEBmNK1Kk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "632413242973-gb0vve95qdfa5d48qm8lafi4r6ldkncd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
